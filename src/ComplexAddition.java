@@ -16,7 +16,7 @@ class Complex {
   void add(){
       int real = real1+ real2;
       int img = imaginary1 +imaginary2;
-      System.out.println(real +"+"+img+"i");
+      System.out.println(real +" + "+img+"i");
   }
 }
 public class ComplexAddition{
